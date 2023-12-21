@@ -121,6 +121,4 @@ If you want to modify the project's source code, you’ll need a text editor/IDE
 
 ## Authors
 
-Bruno Njeru
-
 [Bruno Njeru](https://www.linkedin.com/in/bruno-njeru/)
