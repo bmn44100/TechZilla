@@ -114,7 +114,7 @@ cd /c/Program Files/xampp/htdocs/TechZilla/ecommerce_website
 php -S localhost:8000
 ```
 
-Load up the site by going to http://localhost:8000.
+Load up the site by going to http://localhost:8000/home.php
 
 If you want to modify the project's source code, you’ll need a text editor/IDE like Visual Studio Code in order to test any changes you make to the website in your browser before committing them to the codebase.
 
